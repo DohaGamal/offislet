@@ -1,0 +1,45 @@
+@media (max-width: 575.98px) {
+  .chart-text {
+    display: flex;
+    flex-direction: column-reverse;
+    text-align: center;
+  }
+  .chart {
+    padding-right: 0;
+    padding-left: 0em;
+  }
+  .logo {
+    padding: 2em 3em;
+  }
+  .plan-type {
+    display: block;
+  }
+  .but-plan {
+    margin-left: 1px;
+  }
+  .text {
+    padding-left: 0px;
+  }
+  .div-but {
+    padding-left: 6em;
+  }
+  .num-footer {
+    padding-left: 0em;
+  }
+  .com-nov {
+    padding: 6em 11em 1em 4em;
+    color: #fff;
+    font-size: 16px;
+  }
+  .img-footer {
+    display: none;
+  }
+  .plan {
+    margin-right: 5em;
+    margin-top: 1em;
+  }
+  .div-foot {
+    padding: 0.5em;
+    margin-right: 1em;
+  }
+}

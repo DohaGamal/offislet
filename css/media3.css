@@ -1,0 +1,34 @@
+/* // Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+  .chat {
+    width: 19em;
+  }
+  .img-back {
+    display: none;
+  }
+  .plans {
+    display: block;
+  }
+  .plan-type {
+    display: flex;
+    justify-content: space-between;
+  }
+  .but-plan {
+    margin-left: -29em;
+  }
+  .hader-text {
+    font-size: 28px;
+  }
+  .text {
+    padding-right: 0px;
+  }
+  .plan {
+      margin-right: 91px;
+  }
+  .num-footer {
+    padding-bottom: 2em;
+  }
+  .div {
+    display: block;
+  }
+}
